@@ -12,7 +12,7 @@ end
 
 def using_pop(great_hits_of_the_nineties, deleted_string)
    great_hits_of_the_nineties = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
-   deleted_string =  ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life"]
+   deleted_string = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life"]
    great_hits_of_the_nineties.pop
  end
  
